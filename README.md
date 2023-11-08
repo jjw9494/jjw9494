@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![example workflow](https://www.codewars.com/users/jjw9494/badges/large)
 
 
