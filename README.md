@@ -7,7 +7,7 @@ In the future I look forward to challenging myself and would like to not only be
 
 I also pride myself on my communication and leadership abilities. Growing up within a military environment and attending a military school there was an emphasis on cultivating these skills and I would love the opportunity to develop further.
 
-Outside of tech I am an award winning writer, I have had my music played at clubs around the world and when I can find the time I also enjoy painting.
+Outside of tech I am an award winning writer, I have had my music played around the world and when I can find the time I also enjoy painting.
 
 <!--
 **jjw9494/jjw9494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
