@@ -16,7 +16,7 @@ Outside of tech I am an award winning writer, I have had my music played around 
 * 🌍  I'm based in London
 * 🖥️  See my portfolio at [Joseph James Dev](http://josephjamesdev.vercel.app)
 * ✉️  You can contact me at [josephjamesdev@gmail.com](mailto:josephjamesdev@gmail.com)
-* 🧠  I'm learning C++ and Go, as well as embedding my knowledge of JavaScript and cultivating a deeper understanding of software architecture and design patterns.
+* 🧠  I'm currently learning C++ and Go, as well as embedding my knowledge of JavaScript and cultivating a deeper understanding of software architecture and design patterns.
 
 ### Skills
 
