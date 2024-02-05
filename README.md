@@ -14,7 +14,7 @@ I also pride myself on my communication and leadership abilities. Growing up wit
 Outside of tech I am an award winning writer, I have had my music played around the world and when I can find the time I also enjoy painting.
 
 * 🌍  I'm based in London
-* * 🧠  I'm currently learning C++ and Go, as well as embedding my knowledge of JavaScript and cultivating a deeper understanding of DSA, software architecture and design patterns.
+* 🧠  I'm currently learning C++ and Go, as well as embedding my knowledge of JavaScript and cultivating a deeper understanding of DSA, software architecture and design patterns.
 * 🖥️  See my portfolio at [Joseph James Dev](http://josephjamesdev.vercel.app)
 * ✉️  You can contact me at [josephjamesdev@gmail.com](mailto:josephjamesdev@gmail.com)
 
