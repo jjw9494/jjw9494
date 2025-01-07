@@ -7,11 +7,10 @@ Hi 👋 My name is Joe
 Software Developer
 ------------------
 
-I am an aspiring software engineer and I have recently graduated through the School of Code Bootcamp. In the future I look forward to challenging myself and would like to not only become proficient in high-level languages and frameworks, but I would also like to become a polyglot, developing skills across low-level languages and I hope to develop an adaptable skillset that will allow me to tackle whatever challenges I may come across. 
+As a highly motivated and passionate Software Engineer, I am proficient in multiple programming languages and have a strong foundation in full-stack development. I have a proven track record of building scalable applications, leveraging cloud computing to deliver solutions for both small businesses and enterprise-level organisations. I thrive in collaborative environments, applying my technical expertise and problem-solving skills to drive project success. Equally comfortable working independently, I manage my time efficiently and consistently contribute innovative solutions.
 
 * 🌍  I'm based in London
-* 🧠  I'm currently learning C# and Go, as well as embedding my knowledge of JavaScript and cultivating a deeper understanding of DSA, software architecture and design patterns.
-* 🖥️  See my portfolio at [Joseph James Dev](http://josephjamesdev.vercel.app)
+* 🖥️  See my portfolio at [Joseph James Dev](http://josephjamesdev.com)
 * ✉️  You can contact me at [josephjamesdev@gmail.com](mailto:josephjamesdev@gmail.com)
 
 ### Skills
